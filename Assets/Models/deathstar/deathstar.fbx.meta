@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: dc8e31874f81a0741bb8f8525ecb687d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: arrow_bottom
+    100002: arrow_left
+    100004: arrow_right
+    100006: arrow_top
+    100008: arrows
+    100010: //RootNode
+    100012: door
+    100014: pCube1
+    100016: pCube2
+    100018: pCube3
+    100020: pCube4
+    100022: pSphere1
+    100024: pSphere2
+    100026: pSphere3
+    100028: transform1
+    100030: transform2
+    400000: arrow_bottom
+    400002: arrow_left
+    400004: arrow_right
+    400006: arrow_top
+    400008: arrows
+    400010: //RootNode
+    400012: door
+    400014: pCube1
+    400016: pCube2
+    400018: pCube3
+    400020: pCube4
+    400022: pSphere1
+    400024: pSphere2
+    400026: pSphere3
+    400028: transform1
+    400030: transform2
+    2300000: arrow_bottom
+    2300002: arrow_left
+    2300004: arrow_right
+    2300006: arrow_top
+    2300008: pCube1
+    2300010: pCube2
+    2300012: pCube3
+    2300014: pCube4
+    2300016: pSphere3
+    3300000: arrow_bottom
+    3300002: arrow_left
+    3300004: arrow_right
+    3300006: arrow_top
+    3300008: pCube1
+    3300010: pCube2
+    3300012: pCube3
+    3300014: pCube4
+    3300016: pSphere3
+    4300000: pSphere3
+    4300002: pCube2
+    4300004: pCube1
+    4300006: pCube4
+    4300008: pCube3
+    4300010: arrow_right
+    4300012: arrow_top
+    4300014: arrow_bottom
+    4300016: arrow_left
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

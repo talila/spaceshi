@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 2b07ab3520922f648bdfab1b56d0cd3d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bend2Handle
+    100002: body
+    100004: cannon
+    100006: cannon 1
+    100008: cannoneer_1
+    100010: cannoneer_2
+    100012: capsule_1
+    100014: capsule_1 1
+    100016: capsule_1 2
+    100018: capsule_1 3
+    100020: connector
+    100022: connector 1
+    100024: driver_1
+    100026: driver_1 1
+    100028: driver_1 2
+    100030: driver_1 3
+    100032: engine_1
+    100034: engine_2
+    100036: head1
+    100038: head2
+    100040: head2 1
+    100042: head3
+    100044: shooter_1
+    100046: shooter_1 1
+    100048: //RootNode
+    100050: steering_wheel
+    100052: steering_wheel 1
+    100054: steering_wheel 2
+    100056: steering_wheel 3
+    400000: bend2Handle
+    400002: body
+    400004: cannon
+    400006: cannon 1
+    400008: cannoneer_1
+    400010: cannoneer_2
+    400012: capsule_1
+    400014: capsule_1 1
+    400016: capsule_1 2
+    400018: capsule_1 3
+    400020: connector
+    400022: connector 1
+    400024: driver_1
+    400026: driver_1 1
+    400028: driver_1 2
+    400030: driver_1 3
+    400032: engine_1
+    400034: engine_2
+    400036: head1
+    400038: head2
+    400040: head2 1
+    400042: head3
+    400044: shooter_1
+    400046: shooter_1 1
+    400048: //RootNode
+    400050: steering_wheel
+    400052: steering_wheel 1
+    400054: steering_wheel 2
+    400056: steering_wheel 3
+    2300000: body
+    2300002: cannon
+    2300004: cannon 1
+    2300006: cannoneer_1
+    2300008: cannoneer_2
+    2300010: capsule_1
+    2300012: capsule_1 1
+    2300014: capsule_1 2
+    2300016: capsule_1 3
+    2300018: connector 1
+    2300020: driver_1
+    2300022: driver_1 1
+    2300024: driver_1 2
+    2300026: driver_1 3
+    2300028: engine_1
+    2300030: engine_2
+    2300032: head1
+    2300034: head2
+    2300036: head2 1
+    2300038: head3
+    2300040: shooter_1
+    2300042: shooter_1 1
+    2300044: steering_wheel
+    2300046: steering_wheel 1
+    2300048: steering_wheel 2
+    2300050: steering_wheel 3
+    3300000: body
+    3300002: cannon
+    3300004: cannon 1
+    3300006: cannoneer_1
+    3300008: cannoneer_2
+    3300010: capsule_1
+    3300012: capsule_1 1
+    3300014: capsule_1 2
+    3300016: capsule_1 3
+    3300018: connector 1
+    3300020: driver_1
+    3300022: driver_1 1
+    3300024: driver_1 2
+    3300026: driver_1 3
+    3300028: engine_1
+    3300030: engine_2
+    3300032: head1
+    3300034: head2
+    3300036: head2 1
+    3300038: head3
+    3300040: shooter_1
+    3300042: shooter_1 1
+    3300044: steering_wheel
+    3300046: steering_wheel 1
+    3300048: steering_wheel 2
+    3300050: steering_wheel 3
+    4300000: body
+    4300002: connector
+    4300004: engine_1
+    4300006: driver_1
+    4300008: capsule_1
+    4300010: driver_1
+    4300012: steering_wheel
+    4300014: head2
+    4300016: cannoneer_1
+    4300018: capsule_1
+    4300020: shooter_1
+    4300022: steering_wheel
+    4300024: head1
+    4300026: cannon
+    4300028: cannoneer_2
+    4300030: capsule_1
+    4300032: shooter_1
+    4300034: steering_wheel
+    4300036: head3
+    4300038: cannon
+    4300040: engine_2
+    4300042: driver_1
+    4300044: capsule_1
+    4300046: driver_1
+    4300048: steering_wheel
+    4300050: head2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
